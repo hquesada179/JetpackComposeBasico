@@ -45,7 +45,7 @@ fun MyPresentacion() {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
 
-        val painter = painterResource(id = R.drawable.ferrari)
+        val painter = painterResource(id = R.drawable.perfil_foto)
 
         Image(
             painter = painter,
