@@ -80,7 +80,7 @@ fun MyPresentacion() {
         // ✅ Datos personales
         Spacer(modifier = Modifier.height(18.dp))
         Text(
-            text = "Edad: 20 años\nCorreo: hquesada179@unab.edu.co\nCiudad: Bucaramanga, Santander",
+            text = "Edad: 23 años\nCorreo: hquesada179@unab.edu.co\nCiudad: Bucaramanga, Santander",
             fontSize = 14.sp,
             color = Color.Black,
             modifier = Modifier.fillMaxWidth(),
